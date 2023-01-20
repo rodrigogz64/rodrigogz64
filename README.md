@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 #
