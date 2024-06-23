@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogz64&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 #
@@ -40,4 +40,3 @@ Here are some ideas to get you started:
   <img height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
-
